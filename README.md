@@ -110,16 +110,17 @@ Actively seeking **Pune-based or Remote opportunities**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://gitmystat.vercel.app/api?username=amol-tathe-softwareengineer&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amol-tathe-softwareengineer&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://gitmystat.vercel.app/api/top-langs/?username=amol-tathe-softwareengineer&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amol-tathe-softwareengineer&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://gitmystat.vercel.app/api/streak-stats?username=amol-tathe-softwareengineer&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amol-tathe-softwareengineer" />
 </p>
+
 ---
 
 ## ⚡ Beyond Work

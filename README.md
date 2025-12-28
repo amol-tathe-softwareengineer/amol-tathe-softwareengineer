@@ -54,7 +54,7 @@ Actively seeking **Pune-based or Remote opportunities**.
 ### 📈 Data Handling & Excel
 - Advanced Excel  
   - Pivot Tables  
-  - VLOOKUP / LOOKUP Functions  
+  - VLOOKUP / HLOOKUP Functions  
   - Charts & Reports  
   - Macros & Automation  
 

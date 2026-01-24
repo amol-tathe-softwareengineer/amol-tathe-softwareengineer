@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amol Tathe</h1>
 
 <h3 align="center">
-SQL Developer | Database Engineer | Software Engineer | Data Analyst  | Data Scientist | Business Analyst | 
+SQL Developer|Database Engineer| Software Engineer|Data Analyst| Data Scientist|Business Analyst| 
 </h3>
 
 <p align="center">

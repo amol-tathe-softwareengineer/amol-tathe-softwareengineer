@@ -14,11 +14,35 @@ Transforming data into insights & scalable solutions using SQL, analytics, and s
 
 ## 👨‍💻 Professional Summary
 
-Data-driven **Software & Data Professional** with strong expertise in **SQL, Databases, Data Analytics, and Backend Development**.  
-Experienced in building **optimized queries**, **data models**, **ETL concepts**, and **business-oriented reports** that support decision-making.
+I am a driven, results-oriented, and technically proficient professional with strong expertise across SQL Development, Database Engineering, Data Analysis, Software Engineering, Data Science, and Business Analysis. 
 
-Comfortable working across **technical and business teams** as a SQL Developer, Data Engineer, Data Analyst, Business Analyst, or Software Engineer.  
-Actively seeking **Pune-based or Remote opportunities**.
+I specialize in building high-performance, scalable, and data-driven solutions that enable organizations to make informed decisions and achieve sustainable operational excellence.
+
+My professional focus is on designing, implementing, and optimizing complex database systems that support critical business operations and analytical workloads. 
+
+I have hands-on experience in building efficient data workflows and ensuring high standards of data accuracy, consistency, and reliability across enterprise environments. 
+
+I approach technical challenges with a structured, analytical, and solution-oriented mindset, ensuring that every implementation aligns with real business objectives.
+
+With deep hands-on expertise in SQL*Plus, Oracle SQL, MS SQL Server, and Advanced PL/SQL, I specialize in query optimization, performance tuning, indexing strategies, and data modeling to support both analytical and application-driven use cases. 
+
+I strongly believe in clean architecture, scalability, and maintainability, focusing on long-term system stability rather than short-term fixes.
+
+I operate at the intersection of data engineering, analytics, and software development, where precision and performance are essential. 
+
+My work emphasizes transforming raw data into meaningful insights through optimized database structures, efficient queries, and reliable processing pipelines. 
+
+I continuously enhance my technical skills to stay aligned with evolving technologies, modern engineering practices, and industry standards.
+
+I am known for disciplined execution, attention to detail, and a strong ownership mindset. I view data as a strategic asset, and when engineered correctly, it enables organizations to improve efficiency, reduce risk, and generate measurable business value. 
+
+My goal is to design systems that are functional, resilient, scalable, and future-ready.
+
+I am an immediate joiner and actively seeking opportunities as a SQL Developer, Database Engineer, Data Analyst, Software Engineer, Data Scientist, or Business Analyst, where data-driven decision-making, robust database architecture, and scalable software solutions are central to success. 
+
+If your organization values technical depth, structured problem-solving, and reliable execution, I bring the expertise and mindset required to deliver consistent, high-quality results.
+
+Contact: amoltathe8080@gmail.com
 
 ---
 

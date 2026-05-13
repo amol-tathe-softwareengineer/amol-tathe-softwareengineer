@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amol Tathe</h1>
 
 <h3 align="center">
-SQL Developer | Database Engineer | Software Engineer | Data Analyst | Data Scientist | Business Analyst | 
+SQL Developer | Database Engineer | Software Engineer | Data Analyst | Data Scientist | Data Engineer | Business Analyst |
 </h3>
 
 <p align="center">
@@ -14,7 +14,7 @@ Transforming data into insights & scalable solutions using SQL, analytics, and s
 
 ## 👨‍💻 Professional Summary
 
-I am a driven, results-oriented, and technically proficient professional with strong expertise across SQL Development, Database Engineering, Data Analysis, Software Engineering, Data Science, and Business Analysis. 
+I am a driven, results-oriented, and technically proficient professional with strong expertise across SQL Development, Database Engineering, Data Analysis, Data Engineer, Software Engineering, Data Science, and Business Analysis. 
 
 I specialize in building high-performance, scalable, and data-driven solutions that enable organizations to make informed decisions and achieve sustainable operational excellence.
 
@@ -121,7 +121,9 @@ Contact: amoltathe8080@gmail.com
 ## 💼 Open To Roles
 - SQL Developer  
 - Data Engineer (Junior – Mid Level)  
-- Software Engineer  
+- Software Engineer
+- Data Scientist
+- Database Engineer 
 - Data Analyst  
 - Business Analyst  
 

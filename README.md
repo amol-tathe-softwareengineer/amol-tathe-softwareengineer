@@ -127,7 +127,7 @@ Contact: amoltathe8080@gmail.com
 - Data Analyst  
 - Business Analyst  
 
-📍 **Location:** Pune / Remote  
+📍 **Location:** Pune / Remote / Mumbai / Bangalore Urban / Hyderabad /  Chennai
 ⚡ **Availability:** Immediate Joiner  
 📫 **Email:** [amoltathe8080@gmail.com](mailto:amoltathe8080@gmail.com)
 

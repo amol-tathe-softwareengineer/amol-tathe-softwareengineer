@@ -39,7 +39,7 @@ I am known for disciplined execution, attention to detail, and a strong ownershi
 
 My goal is to design systems that are functional, resilient, scalable, and future-ready.
 
-I am an immediate joiner and actively seeking opportunities as a SQL Developer, Database Engineer, Data Analyst, Software Engineer, Data Scientist, or Business Analyst, where data-driven decision-making, robust database architecture, and scalable software solutions are central to success. 
+I am an immediate joiner and actively seeking opportunities as a SQL Developer, Database Engineer, Data Analyst, Data Engineer, Software Engineer, Data Scientist, or Business Analyst, where data-driven decision-making, robust database architecture, and scalable software solutions are central to success. 
 
 If your organization values technical depth, structured problem-solving, and reliable execution, I bring the expertise and mindset required to deliver consistent, high-quality results.
 

@@ -14,7 +14,8 @@ Transforming data into insights & scalable solutions using SQL, analytics, and s
 
 ## 👨‍💻 Professional Summary
 
-I am a driven, results-oriented, and technically proficient professional with strong expertise across SQL Development, Database Engineering, Data Analysis, Data Engineer, Software Engineering, Data Science, and Business Analysis. 
+I am a driven, results-oriented, and technically proficient professional with strong expertise across
+SQL Developer, Data Engineer, Software Engineer, Data Scientist, Database Engineer, Data Analyst, Business Analyst.
 
 I specialize in building high-performance, scalable, and data-driven solutions that enable organizations to make informed decisions and achieve sustainable operational excellence.
 

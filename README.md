@@ -137,15 +137,15 @@ Contact: amoltathe8080@gmail.com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amol-tathe-softwareengineer&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amoltathesoftwareengineer&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amol-tathe-softwareengineer&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoltathesoftwareengineer&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amol-tathe-softwareengineer" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amoltathesoftwareengineer" />
 </p>
 
 ---
